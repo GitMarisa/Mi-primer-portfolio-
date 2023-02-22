@@ -1,7 +1,7 @@
 # Mi-primer-portfolio-# mi-primer-reposit<h1 align="center">Hi 👋, I'm Marisa</h1>
 <h3 align="center">A passionate frontend developer from México </h3>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/marisa-lerma-767355201](www.linkedin.com/in/marisa-lerma-767355201)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **html,css,Javascript**
 
